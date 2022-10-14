@@ -1,0 +1,26 @@
+body{
+    
+    margin: 0px;
+    height: 752px;
+
+}
+
+#xc,#yc{
+    display: inline-block;
+    border: 2px double white;
+    border-radius: 15px;
+    padding: 0px 10px 0 10px;
+    font-size: 1.5cm;
+    -webkit-text-stroke: 1px white;
+    color:transparent;
+}
+
+#xxx,#yyy{
+    display: inline-block;
+    font-family: "Arial Black";
+    font-size: 1.5cm;
+    padding: 0px 10px 0 10px;
+    text-transform: uppercase;
+    -webkit-text-stroke: 3px white;
+    color:transparent;
+}
